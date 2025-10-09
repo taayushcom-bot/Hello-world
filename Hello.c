@@ -1,5 +1,5 @@
 #include <stdio.h>
-int nain(){
+int main(){
   printf("Hello World");
   return 0;
 }
